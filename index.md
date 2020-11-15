@@ -1,3 +1,33 @@
+## GROWTH MINDSET
+
+### What is Growth Mindset
+
+![growth mindset](https://user-images.githubusercontent.com/74466566/99191028-a3cd0280-272f-11eb-9ea3-346d2354a470.jpg)
+
+
+- Do you love to learn? 
+- Do you love to evole?
+- Do you take a challege as positive?
+
+Well this mean you have a **Growth Mindset**. Growth Mindset is having the ability to want to work harder in anything you are aiming at. 
+Some attributes in having a Growth Mindset are: 
+ - [ ] Perservance
+ - [ ] Embrace Challenges
+ - [ ] Learn from Cristicism
+ - [ ] Sucess of a friend or family as inspiration
+ 
+ If you can tick some or all of the above attributes then you are will on your way in having a Growth Mindset.
+ 
+While have these attributes are all good but sometimes we might fail to follow them do to the stress around us. When these time arise there are some ways i follow to get back on track. Such as: 
+ 1. When I see a challenge bringing me down I remember its only for a time and the reward will be greater.
+ 2. Be Gratiful; Always reflet on the good around you, how it happen, why it happen and even the people involved.
+ 3. Remove Negativity: When caught up with negativity, stop over thinking and focus on the facts
+ 
+ For more information feel free to visit [Work Life](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+ 
+ By: [Alecia Williams-Broderick](https://github.com/williamsasp)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/williamsasp/Alecia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
